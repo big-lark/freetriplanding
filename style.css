@@ -142,14 +142,18 @@ main {
 }
 
 .intro-wrapper .intro {
-  padding: 80px 0;
+  padding: 80px 0 30px;
   font-size: var(--fontSize-middle);
   font-weight: var(--fontWeight-small);
   letter-spacing: -2px;
 }
 
 .intro-wrapper .logo {
-  padding: 10px 0;
+  padding: 10px 0 20px;
+}
+
+.logo {
+  width: 150px;
 }
 
 .contents-wrapper {
@@ -636,7 +640,7 @@ main {
   }
 
   .intro-wrapper .intro {
-    padding: 80px 20px;
+    padding: 80px 20px 30px;
     font-size: var(--fontSize-large);
     letter-spacing: -2px;
   }
