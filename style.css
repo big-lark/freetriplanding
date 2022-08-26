@@ -36,6 +36,7 @@ body {
 /* main */
 main {
   background: var(--color-light-blue-two);
+  background-color: #fff;
 }
 
 .main-wrapper {
@@ -134,6 +135,7 @@ main {
 .process {
   max-width: 1400px;
   margin: auto;
+  background-color: #fff;
 }
 
 .process-wrapper {
@@ -227,6 +229,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #fff;
 }
 
 .area-title {
@@ -363,6 +366,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #fff;
 }
 
 .guide-title {
@@ -403,6 +407,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #fff;
 }
 
 .inquire-title {
@@ -429,6 +434,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #fff;
 }
 
 .price-title {
