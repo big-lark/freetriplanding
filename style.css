@@ -29,6 +29,10 @@
   font-family: "Noto Sans KR", sans-serif;
 }
 
+body {
+  background-color: #fff;
+}
+
 /* main */
 main {
   background: var(--color-light-blue-two);
